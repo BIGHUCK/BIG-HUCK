@@ -16,7 +16,6 @@ GET /?search=%3Cscript%3Ealert%281%29%3C%2Fscript%3E HTTP/2
 Host: 0abe0041033a37d680520380001200fe.web-security-academy.net
 
 ## PoC
-- Screenshot: images/poc1.png
-
+- ![PoC screenshot](images/poc1.png)
 ## Mitigation
 - HTML-encode output; use CSP; validate input.
