@@ -16,6 +16,6 @@ GET /?search=%3Cscript%3Ealert%281%29%3C%2Fscript%3E HTTP/2
 Host: 0abe0041033a37d680520380001200fe.web-security-academy.net
 
 ## PoC
-- ![PoC screenshot](images/poc1.png)
+- ![PoC screenshot](images/poc1.png)https://github.com/BIGHUCK/BIG-HUCK/commit/cbb5c4e0689b1860d44ffdf14edf4d0a771dc8bf
 ## Mitigation
 - HTML-encode output; use CSP; validate input.
